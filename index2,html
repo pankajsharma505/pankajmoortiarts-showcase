@@ -1,0 +1,17 @@
+<div style="display: flex; gap: 20px; font-family: sans-serif; background: #1a1a1a; padding: 30px; border-radius: 12px; color: white; width: 900px;">
+  
+  <!-- 2025 Draft -->
+  <div style="flex: 1; background: #2a3b2a; padding: 20px; border-radius: 8px; border-left: 6px solid #4CAF50;">
+    <h2 style="color: #4CAF50; margin-top: 0;">UGC Draft 2025</h2>
+    <p style="font-size: 18px; line-height: 1.5;"><b>Clause 8(g) मौजूद:</b> अगर शिकायत झूठी या व्यक्तिगत रंजिश (Malicious) से की गई पाई जाती, तो शिकायतकर्ता पर पेनल्टी का नियम था।</p>
+    <div style="background: rgba(76, 175, 80, 0.2); padding: 10px; border-radius: 4px; font-weight: bold;">✔ दोनों पक्षों की सुरक्षा</div>
+  </div>
+
+  <!-- 2026 Final -->
+  <div style="flex: 1; background: #3b2a2a; padding: 20px; border-radius: 8px; border-left: 6px solid #f44336;">
+    <h2 style="color: #f44336; margin-top: 0;">UGC Final Rules 2026</h2>
+    <p style="font-size: 18px; line-height: 1.5;"><b>Clause 8(g) हटाया गया:</b> अंतिम नियमों में 'झूठी शिकायत पर कार्रवाई' वाले प्रावधान को पूरी तरह समाप्त कर दिया गया।</p>
+    <div style="background: rgba(244, 67, 54, 0.2); padding: 10px; border-radius: 4px; font-weight: bold;">✖ दुरुपयोग का डर (विवाद का कारण)</div>
+  </div>
+
+</div>
